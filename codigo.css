@@ -1,0 +1,56 @@
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+html, body {
+    
+    height: 100vh;
+    width: 100vw;  
+    
+}
+
+body {
+
+
+    background-color: #ffcb37;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+main {
+   
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+text-align: center; 
+border: 5px solid blueviolet; 
+width: 320px;
+    
+   
+}
+
+a {
+        
+        text-decoration: none;
+        background: blueviolet;
+        color: white;
+        padding: 14px;
+        text-align: center;
+      font-size: 15px;
+        position: absolute;
+        top: 400%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    text-align: center; 
+
+    }
+
+h5 {
+    color: red;
+}
